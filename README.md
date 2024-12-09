@@ -39,3 +39,4 @@ Outputs: Same as YOLO with more precise object identification.
 Dominant Color Detection Model
 Purpose: Identification of dominant colors in images.
 Outputs: List of dominant colors for each image.
+
