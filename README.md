@@ -40,3 +40,5 @@ Dominant Color Detection Model
 Purpose: Identification of dominant colors in images.
 Outputs: List of dominant colors for each image.
 
+## Additional Resources
+- [Image Analytics Table Document](https://github.com/jtmanzella/MSBA-503/blob/main/Image%20Analytics%20Table%20Document.docx)
